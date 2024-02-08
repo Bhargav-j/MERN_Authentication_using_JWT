@@ -9,7 +9,7 @@ import { store } from "./store";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="https://bhargav-j.github.io/">
+    <BrowserRouter basename={"/MERN_Authentication_using_JWT"}>
       <Provider store={store}>
         <App />
       </Provider>
