@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://Bhargav-j.github.io/MERN_Authentication_using_JWT_Frontend",
+  "homepage": "https://bhargav-j.github.io/MERN_Authentication_using_JWT",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
